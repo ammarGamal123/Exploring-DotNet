@@ -1,0 +1,14 @@
+D:\githubReposWindows\CsharpOOP\Day01\Day01\bin\Debug\net7.0\Day01.exe
+D:\githubReposWindows\CsharpOOP\Day01\Day01\bin\Debug\net7.0\Day01.deps.json
+D:\githubReposWindows\CsharpOOP\Day01\Day01\bin\Debug\net7.0\Day01.runtimeconfig.json
+D:\githubReposWindows\CsharpOOP\Day01\Day01\bin\Debug\net7.0\Day01.dll
+D:\githubReposWindows\CsharpOOP\Day01\Day01\bin\Debug\net7.0\Day01.pdb
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.AssemblyInfoInputs.cache
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.AssemblyInfo.cs
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.csproj.CoreCompileInputs.cache
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.dll
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\refint\Day01.dll
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.pdb
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\Day01.genruntimeconfig.cache
+D:\githubReposWindows\CsharpOOP\Day01\Day01\obj\Debug\net7.0\ref\Day01.dll
