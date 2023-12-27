@@ -5,12 +5,27 @@ internal class Program
     public static void Main(string[] args)
     {
 
-        Console.WriteLine($"Default Value of Byte: {default(byte)} ");
-        Console.WriteLine($"Default Value of Integer: {default(int)}");
-        Console.WriteLine($"Default Value of Float: {default(float)}");
-        Console.WriteLine($"Default Value of Long: {default(long)}");
-        Console.WriteLine($"Default Value of Double: {default(double)}");
-        Console.WriteLine($"Default Value of Character: {default(char)}");
-        Console.WriteLine($"Default Value of Boolean: {default(bool)}");
+        Stopwatch stopwatch1 = new Stopwatch();
+        stopwatch1.Start();
+        for (int i = 0; i <= 10000000; i++)
+        {
+            short s1 = 100;
+            short s2 = 100;
+            short s3 = 100;
+        }
+        stopwatch1.Stop();
+        Console.WriteLine($"short took : {stopwatch1.ElapsedMilliseconds} MS");
+        Stopwatch stopwatch2 = new Stopwatch();
+        stopwatch2.Start();
+        for (int i = 0; i <= 10000000; i++)
+        {
+            decimal s1 = 100;
+            decimal s2 = 100;
+            decimal s3 = 100;
+        }
+        stopwatch2.Stop();
+        Console.WriteLine($"decimal took : {stopwatch2.ElapsedMilliseconds} MS");
+
+
     }
 }
