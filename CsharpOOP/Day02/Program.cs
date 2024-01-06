@@ -122,7 +122,7 @@
             string s2 = "True";
             bool b1 = bool.Parse(s2);
 
-            Console.WriteLine($"Original String value: {s2} and converted to bool value {b1}");
+            Console.WriteLine($"Original String value: {s2} and converted to bool value {b1}\n");
 
             string str3 = "Hello";
 
