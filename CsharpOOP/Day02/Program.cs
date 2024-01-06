@@ -6,7 +6,7 @@
         {
             #region Literals in C#
 
-            /*int integer = 1234;
+            int integer = 1234;
             int hexa = 0x123f;
             int binary = 0b1111;
 
@@ -57,7 +57,7 @@
             Console.WriteLine($"str1 = {str1}");
             Console.WriteLine($"str2 = {str2}");
             Console.WriteLine($"str3 = {str3}");
-            Console.WriteLine($"str4 = {str4}");*/
+            Console.WriteLine($"str4 = {str4}");
 
             #endregion
 
