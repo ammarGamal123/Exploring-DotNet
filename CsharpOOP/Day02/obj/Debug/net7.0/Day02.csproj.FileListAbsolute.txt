@@ -1,0 +1,14 @@
+D:\githubReposWindows\CsharpOOP\Day02\bin\Debug\net7.0\Day02.exe
+D:\githubReposWindows\CsharpOOP\Day02\bin\Debug\net7.0\Day02.deps.json
+D:\githubReposWindows\CsharpOOP\Day02\bin\Debug\net7.0\Day02.runtimeconfig.json
+D:\githubReposWindows\CsharpOOP\Day02\bin\Debug\net7.0\Day02.dll
+D:\githubReposWindows\CsharpOOP\Day02\bin\Debug\net7.0\Day02.pdb
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.AssemblyInfoInputs.cache
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.AssemblyInfo.cs
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.csproj.CoreCompileInputs.cache
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.dll
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\refint\Day02.dll
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.pdb
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\Day02.genruntimeconfig.cache
+D:\githubReposWindows\CsharpOOP\Day02\obj\Debug\net7.0\ref\Day02.dll
