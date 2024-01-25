@@ -1,0 +1,14 @@
+D:\githubReposWindows\EntityFramework\EFCore\bin\Debug\net7.0\EFCore.exe
+D:\githubReposWindows\EntityFramework\EFCore\bin\Debug\net7.0\EFCore.deps.json
+D:\githubReposWindows\EntityFramework\EFCore\bin\Debug\net7.0\EFCore.runtimeconfig.json
+D:\githubReposWindows\EntityFramework\EFCore\bin\Debug\net7.0\EFCore.dll
+D:\githubReposWindows\EntityFramework\EFCore\bin\Debug\net7.0\EFCore.pdb
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.AssemblyInfoInputs.cache
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.AssemblyInfo.cs
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.csproj.CoreCompileInputs.cache
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.dll
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\refint\EFCore.dll
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.pdb
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\EFCore.genruntimeconfig.cache
+D:\githubReposWindows\EntityFramework\EFCore\obj\Debug\net7.0\ref\EFCore.dll
