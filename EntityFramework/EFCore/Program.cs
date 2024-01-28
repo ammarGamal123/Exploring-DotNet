@@ -6,12 +6,13 @@
 
             var _context = new ApplicationDbContext();
 
-            Employee employee = new Employee {Name = "Mido"};
 
-            _context.Employees.Add(employee);
             _context.SaveChanges();
 
+            
+
+
             Console.ReadKey();
-        } 
+        }
     }
 }
